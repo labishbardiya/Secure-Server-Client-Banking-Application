@@ -12,7 +12,7 @@ This project implements a secure Server-Client application for basic banking ope
 ## Requirements
 
 -	Ubuntu OS
--	OpenSSL Library: sudo apt update sudo apt install libssl-dev
+-	OpenSSL Library: `sudo apt update` `sudo apt install libssl-dev`
 -	C++ Compiler: GCC and C++17.
   
 ## Setup and Compilation
